@@ -1,5 +1,5 @@
 # Deep Learning Course:
 
-**Task**: Binary Classification
+**Task**: Binary Image Classification
 
 **Tools**: Tensorflow, Keras
